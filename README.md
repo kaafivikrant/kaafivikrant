@@ -1,7 +1,6 @@
 ### Hi there, I'm [Vikrant!](https://kaafivikrant.me) 👋
 
 <br />
-<br />
 
 Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
