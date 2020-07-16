@@ -1,4 +1,4 @@
-### Hi there, I'm [Vikrant!](https://kaafivikrant.me) 👋
+### Hi there, I'm [Vikrant!](https://kaafivikrant.me) <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="100">
 
 <br />
 
