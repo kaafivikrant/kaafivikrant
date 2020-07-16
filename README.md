@@ -1,4 +1,5 @@
-### Hi there, I'm [Vikrant!](https://kaafivikrant.me) <img src="https://media.giphy.com/media/eebmNnxxtSNiw/giphy.gif" width="100">
+### Hi there, I'm [Vikrant!](https://kaafivikrant.me) 
+<img src="https://media.giphy.com/media/eebmNnxxtSNiw/giphy.gif" width="100">
 <br />
 Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
