@@ -1,7 +1,5 @@
 ### Hi there, I'm [Vikrant!](https://kaafivikrant.me) <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="100">
-
 <br />
-
 Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
 - 🔭 I’m currently working on my algorithmic skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
