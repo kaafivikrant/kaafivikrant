@@ -2,6 +2,10 @@
 <img src="https://media.giphy.com/media/eebmNnxxtSNiw/giphy.gif" width="100">
 
 Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 - 🔭 I’m currently working on my algorithmic skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
 - 🌱 I’m currently learning C++ and AR.
