@@ -9,10 +9,11 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 - 💬 Want to ask anything? [Ask me!](https://github.com/kaafivikrant/kaafivikrant/issues)
 - 👷 React Native App.
 
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kaafivikrant">
 </a>
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Languages and Tools:**  
 
