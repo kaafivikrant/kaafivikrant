@@ -13,7 +13,7 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kaafivikrant">
 </a>
-<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------</br>
+<br>------------------------------------------------------------------------------</br>
 
 **Languages and Tools:**  
 
