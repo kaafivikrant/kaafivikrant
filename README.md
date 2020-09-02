@@ -23,3 +23,5 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png"></code> 
+<code><img height="20" src="https://www.microsoft.com/design/images/microsoft-icon.svg"></code> 
+
