@@ -1,5 +1,5 @@
 ### Hi there, I'm [Vikrant!](https://kaafivikrant.me) 
-<img src="https://media.giphy.com/media/eebmNnxxtSNiw/giphy.gif" width="100">
+<img src="https://tenor.com/view/goku-thumbs-up-dbz-good-super-saiyan-gif-4862433" width="100">
 
 Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
