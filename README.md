@@ -18,7 +18,7 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://f0.pngfuel.com/png/46/626/c-logo-png-clip-art.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/1000/1*Yafu7ihc1LFuP4azerAa4w.png"></code>
+<code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/v2f6fb68338062e7c16672db62c4ab042dcb9bfbacf2fa51b6959426b203a4d8a/cloud/images/favicons/onecloud/apple-icon.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
