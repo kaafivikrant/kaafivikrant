@@ -29,5 +29,3 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 **GitHub Stats:-**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaafivikrant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaafivikrant)](https://github.com/anuraghazra/github-readme-stats)
