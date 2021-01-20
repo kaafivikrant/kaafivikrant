@@ -26,7 +26,7 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 <code><img height="20" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png"></code> 
 <code><img height="20" src="https://www.microsoft.com/design/images/microsoft-icon.svg"></code> 
 
-**GitHub Stats:**
+**GitHub Stats:-**
 
 <a href="https://github.com/kaafivikrant/kaafivikrant">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaafivikrant&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
