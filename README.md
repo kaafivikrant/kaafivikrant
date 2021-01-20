@@ -1,7 +1,8 @@
 ### Hi there, I'm [Vikrant!](https://kaafivikrant.me) 
 <img src="https://media1.tenor.com/images/c0a09c56bd24c4d1e7bb91d6b6a375fd/tenor.gif" width="100">
 
-Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
+Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I’m currently working on my algorithmic skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
 - 🌱 I’m currently learning JavaScript and AR.
