@@ -28,5 +28,5 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
 **GitHub Stats:-**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaafivikrant&hide=javascript,html)](https://github.com/kaafivikrant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaafivikrant&hide=PHP,html&langs_count=8)](https://github.com/kaafivikrant/github-readme-stats)
 
