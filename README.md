@@ -30,3 +30,4 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaafivikrant&hide=PHP,HTML,SCSS,CSS&langs_count=8)](https://github.com/kaafivikrant/github-readme-stats)
 
+![Snake Graph](https://github.com/kaafivikrant/kaafivikrant/blob/master/github-user-contribution.svg)
