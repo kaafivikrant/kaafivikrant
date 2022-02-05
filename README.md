@@ -5,10 +5,7 @@ Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India.
 
 
 - 🔭 I’m currently working on my algorithmic skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
-- 🌱 I’m currently learning JavaScript and AR.
-- 📈 Growing on [Codechef](https://www.codechef.com/users/iamvikrant1)
 - 💬 Want to ask anything? [Ask me!](https://github.com/kaafivikrant/kaafivikrant/issues)
-- 👷 Building AR application.
 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
